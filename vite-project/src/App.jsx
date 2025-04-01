@@ -12,7 +12,7 @@ import About from "./pages/About";
 import Services from "./pages/Services";
 import Contact from "./pages/Contact";
 import Projects from "./pages/Projects";
-import SignIn from "./pages/SignIn";
+import SignIn from "./pages/Signin";
 
 
 const App = () => {

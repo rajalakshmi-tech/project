@@ -1,0 +1,30 @@
+*{
+    background-image:url('https://i.pinimg.com/originals/80/ee/21/80ee21f724186f1838df34067fb929b9.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    
+    
+   
+}
+.signin-btn{
+    text-align: center;
+    padding: 10px 20px;
+    background-color: #ec14e8;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+.signin-btn:hover{
+    background-color: #ec148b;
+}
+.signin-form{
+    color: #EC7FA9;
+    font-size: 20px;
+    font-weight: bold;
+}
